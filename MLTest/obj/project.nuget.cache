@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfFnaKVFle8hn6U2jT9MrOlDsLVMCoItiAGu1/f9WF9jHx2dOAg65HzRFZXaIZoKmQxqU3DBYAFOyYjCz10ceA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rishabh\\Documents\\Visual Studio 2019\\Projects\\MLTest\\MLTest\\MLTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.ml\\1.4.0\\microsoft.ml.1.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.ml.cpumath\\1.4.0\\microsoft.ml.cpumath.1.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.ml.dataview\\1.4.0\\microsoft.ml.dataview.1.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\system.threading.tasks.dataflow\\4.8.0\\system.threading.tasks.dataflow.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
